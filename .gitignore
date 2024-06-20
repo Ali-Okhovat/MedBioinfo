@@ -1,3 +1,11 @@
 *.sra
 .ipynb_checkpoints
 
+data/blast_db/
+data/bowtie2_DBs/
+data/merged_pairs/
+data/reference_seqs/
+data/sra_fastq/
+scripts/outputs/
+analyses/kraken2-bracken/kraken2/*.out
+analyses/kraken2-bracken/bracken/*.out
