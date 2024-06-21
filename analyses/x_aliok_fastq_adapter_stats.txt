@@ -1,0 +1,1 @@
+seqID	patternName	pattern	strand	start	end	matched
