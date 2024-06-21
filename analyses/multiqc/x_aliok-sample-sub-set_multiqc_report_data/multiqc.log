@@ -1,0 +1,16 @@
+[2024-05-29 17:33:01,069] multiqc.core.update_config                         [INFO   ]  Report title: x_aliok sample sub-set
+[2024-05-29 17:33:01,244] multiqc.core.file_search                           [INFO   ]  Search path: /proj/applied_bioinformatics/users/x_aliok/MedBioinfo/data/merged_pairs
+[2024-05-29 17:33:01,244] multiqc.core.file_search                           [INFO   ]  Search path: /proj/applied_bioinformatics/users/x_aliok/MedBioinfo/analyses/fastqc
+[2024-05-29 17:33:01,244] multiqc.core.file_search                           [INFO   ]  Search path: /proj/applied_bioinformatics/users/x_aliok/MedBioinfo/analyses/x_aliok_flash.log
+[2024-05-29 17:33:01,244] multiqc.core.file_search                           [INFO   ]  Search path: /proj/applied_bioinformatics/users/x_aliok/MedBioinfo/analyses/x_aliok_fastq_stats.txt
+[2024-05-29 17:33:01,244] multiqc.core.file_search                           [INFO   ]  Search path: /proj/applied_bioinformatics/users/x_aliok/MedBioinfo/analyses/bowtie
+[2024-05-29 17:33:01,244] multiqc.core.file_search                           [INFO   ]  Search path: /proj/applied_bioinformatics/users/x_aliok/MedBioinfo/analyses/kraken2
+[2024-05-29 17:33:05,218] multiqc.modules.bowtie2.bowtie2                    [INFO   ]  Found 2 reports
+[2024-05-29 17:33:05,602] multiqc.modules.kraken.kraken                      [INFO   ]  Found 12 reports
+[2024-05-29 17:33:06,353] multiqc.modules.kraken.kraken                      [INFO   ]  Found 12 reports
+[2024-05-29 17:33:07,534] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 24 reports
+[2024-05-29 17:33:07,667] multiqc.modules.flash.flash                        [INFO   ]  Found 12 log reports
+[2024-05-29 17:33:07,681] multiqc.modules.flash.flash                        [INFO   ]  Found 12 histogram reports
+[2024-05-29 17:33:08,347] multiqc.core.write_results                         [INFO   ]  Data        : ../analyses/multiqc/x_aliok-sample-sub-set_multiqc_report_data   (overwritten)
+[2024-05-29 17:33:08,703] multiqc.core.write_results                         [INFO   ]  Report      : ../analyses/multiqc/x_aliok-sample-sub-set_multiqc_report.html   (overwritten)
+[2024-05-29 17:33:08,706] multiqc.multiqc                                    [INFO   ]  MultiQC complete

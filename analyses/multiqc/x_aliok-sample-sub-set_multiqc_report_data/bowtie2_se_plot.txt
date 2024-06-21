@@ -1,0 +1,3 @@
+Sample	SE mapped uniquely	SE not aligned
+x_aliok_bowtie_merged2PhiX	0	6168596
+x_aliok_bowtie_merged2SARS-CoV-2	2085	6166511
